@@ -3,7 +3,7 @@ PPL Mini-Project :
 
 1. Title of project : DocBot  
 
-2. Group Name : Doc Trainers  
+2. Group Name : Bot Trainers  
    Division : 1  
    Batch : S5  
    Group Members :  
